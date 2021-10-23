@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kodjomiles
-- 👀 I’m interested in software development and engineering mannnnnnnn.
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on creating python based programs
+- 👀 I’m interested in software development and engineering.
+- 🌱 I’m currently learning python,html,css,javascript,reat and node.js
+- 💞️ I’m looking to collaborate on creating python based programs,html and css and javascript
 - 📫 How to reach me : email me at kodjomiles@gmailcomm
 
 <!---
