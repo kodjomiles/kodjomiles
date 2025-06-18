@@ -1,4 +1,4 @@
-# 👨‍💻 Miles Kodjo - Software Engineer
+# 👨‍💻 Kodjo Miles - Software Engineer
 
 <div align="center">
   
