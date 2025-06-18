@@ -11,16 +11,18 @@
 Hey there! I'm Miles, a passionate **Software Engineer** with experience building scalable solutions for companies like **Port.io**. I specialize in crafting robust, efficient applications that solve real-world problems and drive business growth.
 
 ```python
+from typing import List
+
 class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Miles Kodjo"
-        self.role = "Software Engineer"
-        self.company_experience = ["Port.io", "Various Startups"]
-        self.languages = ["Python", "Go", "TypeScript", "C#", "C++", "Node.js"]
-        self.current_focus = "Cloud-Native Solutions & DevOps"
-        self.fun_fact = "592 commits and counting! 🔥"
+    def __init__(self) -> None:
+        self.name: str = "Miles Kodjo"
+        self.role: str = "Software Engineer"
+        self.company_experience: List[str] = ["Port.io", "Various Startups"]
+        self.languages: List[str] = ["Python", "Go", "TypeScript", "C#", "C++", "Node.js"]
+        self.current_focus: str = "Cloud-Native Solutions & DevOps"
+        self.fun_fact: str = "592 commits and counting! 🔥"
     
-    def say_hi(self):
+    def say_hi(self) -> None:
         print("Thanks for dropping by! Let's build something amazing together.")
 ```
 
